@@ -52,20 +52,4 @@ public class Data{
 		return "Data [" + dia + " / " + mes + " / " + ano + "]";
 	}
 	
-	
-	public void setDiaMes(String diaMes) {
-		// TODO Auto-generated method stub
-		
-	}
-	
-	public void setMesAno(String mesAno) {
-		// TODO Auto-generated method stub
-		
-	}
-	
-	public void setDiaAno(String diaAno) {
-		// TODO Auto-generated method stub
-		
-	}
-	    
 }

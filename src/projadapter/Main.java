@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		Data dt = new Adapter();
+		IData dt = new Adapter();
         dt.setData("2000/02/27");
         System.out.println(dt);
         
